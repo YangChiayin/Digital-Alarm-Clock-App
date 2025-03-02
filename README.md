@@ -1,8 +1,6 @@
 # Digital Alarm Clock App
 <img src="https://github.com/user-attachments/assets/e346e835-4d59-40bb-a291-46be811fe47b" width="500" />
 
-## Project Name: Digital-Alarm-Clock-App
-
 ### Description
 
 This project is a simple Digital Alarm Clock application developed using C# and Windows Forms. It displays the current time, date, and day of the week while allowing users to set an alarm.
