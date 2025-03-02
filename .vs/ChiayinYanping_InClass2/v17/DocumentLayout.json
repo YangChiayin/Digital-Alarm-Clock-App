@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Conestoga_Courses\\2024_level_2\\Programming Concept II\\ChiayinYanping_InClass2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4258358B-83DB-43DF-8DF3-F94F0A02A3B5}|ChiayinYanping_InClass2\\ChiayinYanping_InClass2.csproj|d:\\conestoga_courses\\2024_level_2\\programming concept ii\\chiayinyanping_inclass2\\chiayinyanping_inclass2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4258358B-83DB-43DF-8DF3-F94F0A02A3B5}|ChiayinYanping_InClass2\\ChiayinYanping_InClass2.csproj|solutionrelative:chiayinyanping_inclass2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4258358B-83DB-43DF-8DF3-F94F0A02A3B5}|ChiayinYanping_InClass2\\ChiayinYanping_InClass2.csproj|D:\\Conestoga_Courses\\2024_level_2\\Programming Concept II\\ChiayinYanping_InClass2\\chiayinyanping_inclass2\\digitalalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4258358B-83DB-43DF-8DF3-F94F0A02A3B5}|ChiayinYanping_InClass2\\ChiayinYanping_InClass2.csproj|solutionrelative:chiayinyanping_inclass2\\digitalalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4258358B-83DB-43DF-8DF3-F94F0A02A3B5}|ChiayinYanping_InClass2\\ChiayinYanping_InClass2.csproj|d:\\conestoga_courses\\2024_level_2\\programming concept ii\\chiayinyanping_inclass2\\chiayinyanping_inclass2\\digitalalarm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4258358B-83DB-43DF-8DF3-F94F0A02A3B5}|ChiayinYanping_InClass2\\ChiayinYanping_InClass2.csproj|solutionrelative:chiayinyanping_inclass2\\digitalalarm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4258358B-83DB-43DF-8DF3-F94F0A02A3B5}|ChiayinYanping_InClass2\\ChiayinYanping_InClass2.csproj|d:\\conestoga_courses\\2024_level_2\\programming concept ii\\chiayinyanping_inclass2\\chiayinyanping_inclass2\\digitalalarm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4258358B-83DB-43DF-8DF3-F94F0A02A3B5}|ChiayinYanping_InClass2\\ChiayinYanping_InClass2.csproj|solutionrelative:chiayinyanping_inclass2\\digitalalarm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DigitalAlarm.Designer.cs",
+              "DocumentMoniker": "D:\\Conestoga_Courses\\2024_level_2\\Programming Concept II\\ChiayinYanping_InClass2\\ChiayinYanping_InClass2\\DigitalAlarm.Designer.cs",
+              "RelativeDocumentMoniker": "ChiayinYanping_InClass2\\DigitalAlarm.Designer.cs",
+              "ToolTip": "D:\\Conestoga_Courses\\2024_level_2\\Programming Concept II\\ChiayinYanping_InClass2\\ChiayinYanping_InClass2\\DigitalAlarm.Designer.cs",
+              "RelativeToolTip": "ChiayinYanping_InClass2\\DigitalAlarm.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T19:15:34.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DigitalAlarm.resx",
+              "DocumentMoniker": "D:\\Conestoga_Courses\\2024_level_2\\Programming Concept II\\ChiayinYanping_InClass2\\ChiayinYanping_InClass2\\DigitalAlarm.resx",
+              "RelativeDocumentMoniker": "ChiayinYanping_InClass2\\DigitalAlarm.resx",
+              "ToolTip": "D:\\Conestoga_Courses\\2024_level_2\\Programming Concept II\\ChiayinYanping_InClass2\\ChiayinYanping_InClass2\\DigitalAlarm.resx",
+              "RelativeToolTip": "ChiayinYanping_InClass2\\DigitalAlarm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-02T19:15:32.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DigitalAlarm.cs [Design]",
+              "DocumentMoniker": "D:\\Conestoga_Courses\\2024_level_2\\Programming Concept II\\ChiayinYanping_InClass2\\ChiayinYanping_InClass2\\DigitalAlarm.cs",
+              "RelativeDocumentMoniker": "ChiayinYanping_InClass2\\DigitalAlarm.cs",
+              "ToolTip": "D:\\Conestoga_Courses\\2024_level_2\\Programming Concept II\\ChiayinYanping_InClass2\\ChiayinYanping_InClass2\\DigitalAlarm.cs [Design]",
+              "RelativeToolTip": "ChiayinYanping_InClass2\\DigitalAlarm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T19:10:10.059Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Conestoga_Courses\\2024_level_2\\Programming Concept II\\ChiayinYanping_InClass2\\ChiayinYanping_InClass2\\Program.cs",
+              "RelativeDocumentMoniker": "ChiayinYanping_InClass2\\Program.cs",
+              "ToolTip": "D:\\Conestoga_Courses\\2024_level_2\\Programming Concept II\\ChiayinYanping_InClass2\\ChiayinYanping_InClass2\\Program.cs",
+              "RelativeToolTip": "ChiayinYanping_InClass2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T19:10:06.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

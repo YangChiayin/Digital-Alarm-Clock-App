@@ -1,0 +1,13 @@
+C:\Users\Chiayin\Source\Repos\ChiayinYanping_InClass2\ChiayinYanping_InClass2\bin\Debug\ChiayinYanping_InClass2.exe.config
+C:\Users\Chiayin\Source\Repos\ChiayinYanping_InClass2\ChiayinYanping_InClass2\bin\Debug\ChiayinYanping_InClass2.exe
+C:\Users\Chiayin\Source\Repos\ChiayinYanping_InClass2\ChiayinYanping_InClass2\bin\Debug\ChiayinYanping_InClass2.pdb
+C:\Users\Chiayin\Source\Repos\ChiayinYanping_InClass2\ChiayinYanping_InClass2\obj\Debug\ChiayinYanping_InClass2.csproj.AssemblyReference.cache
+C:\Users\Chiayin\Source\Repos\ChiayinYanping_InClass2\ChiayinYanping_InClass2\obj\Debug\ChiayinYanping_InClass2.DigitalAlarm.resources
+C:\Users\Chiayin\Source\Repos\ChiayinYanping_InClass2\ChiayinYanping_InClass2\obj\Debug\ChiayinYanping_InClass2.Properties.Resources.resources
+C:\Users\Chiayin\Source\Repos\ChiayinYanping_InClass2\ChiayinYanping_InClass2\obj\Debug\ChiayinYanping_InClass2.csproj.GenerateResource.cache
+C:\Users\Chiayin\Source\Repos\ChiayinYanping_InClass2\ChiayinYanping_InClass2\obj\Debug\ChiayinYanping_InClass2.csproj.CoreCompileInputs.cache
+C:\Users\Chiayin\Source\Repos\ChiayinYanping_InClass2\ChiayinYanping_InClass2\obj\Debug\ChiayinYanping_InClass2.exe
+C:\Users\Chiayin\Source\Repos\ChiayinYanping_InClass2\ChiayinYanping_InClass2\obj\Debug\ChiayinYanping_InClass2.pdb
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanping_InClass2\ChiayinYanping_InClass2\obj\Debug\ChiayinYanping_InClass2.csproj.AssemblyReference.cache
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanping_InClass2\ChiayinYanping_InClass2\obj\Debug\ChiayinYanping_InClass2.exe
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanping_InClass2\ChiayinYanping_InClass2\obj\Debug\ChiayinYanping_InClass2.pdb
