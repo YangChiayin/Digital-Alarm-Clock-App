@@ -20,11 +20,6 @@ This project is a simple Digital Alarm Clock application developed using C# and 
 
 ### Installation & Usage
 
-#### Clone the repository:
-```sh
-git clone https://github.com/yourusername/ChiayinYanping_InClass2.git
-```
-
 #### Open the project in Visual Studio.
 #### Build and run the application.
 
