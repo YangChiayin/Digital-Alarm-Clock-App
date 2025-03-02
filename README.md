@@ -37,8 +37,3 @@ This project is a simple Digital Alarm Clock application developed using C# and 
 - Add sound notification when the alarm is triggered.
 - Improve the UI with additional customization options.
 - Allow users to set multiple alarms.
-
-### Authors
-
-- **Chiayin Yang**
-- **Yanping Guo**
